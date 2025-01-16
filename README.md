@@ -2,6 +2,13 @@
 
 [Planiha](https://github.com/sheilaufrj/Planilha_de_Gastos_SA/blob/main/Planilha_Gastos_SA.jpg)
 
+</a>
+<img 
+    src="[https://static.zoom.com.br/content/Image/2020/Listas/celular%20para%20idoso.png](https://github.com/sheilaufrj/Planilha_de_Gastos_SA/blob/main/Planilha_Gastos_SA.jpg)" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
+
 
 Projeto DIO e Caixa - IA Generativa com Microsoft Copilot
 -------
