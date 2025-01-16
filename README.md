@@ -4,8 +4,8 @@
 
 </a>
 <img 
-    src="[https://static.zoom.com.br/content/Image/2020/Listas/celular%20para%20idoso.png](https://github.com/sheilaufrj/Planilha_de_Gastos_SA/blob/main/Planilha_Gastos_SA.jpg)" 
-    alt="🔴 LIVE CODE">
+    src="https://github.com/sheilaufrj/Planilha_de_Gastos_SA/blob/main/Planilha_Gastos_SA.jpg" 
+    alt="🔴 PLANILHA">
 </a>
 </p>
 
