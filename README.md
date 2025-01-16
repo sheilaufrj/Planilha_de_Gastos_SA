@@ -14,8 +14,8 @@ Projeto DIO e Caixa IA
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de Instagram Descomplicado, me liste 5 variações de títulos                                                        |
+| :------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  título  | Crie um grupamento de gastos com base nos dados                                            |
 | conteúdo | Faça um texto para ebook , com foco em usabilidade do Instagram por idosos. |
 
 
@@ -23,14 +23,14 @@ Excel：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Uso dos Layouts free |
+| título | Controle Financeiro e redução da inadimplência |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Dados gerados via Excel
 
-## 👨‍💻 Expert
+## 💜 Expert
 [Sheila Alves](https://github.com/sheilaufrj)
 <p>
 
