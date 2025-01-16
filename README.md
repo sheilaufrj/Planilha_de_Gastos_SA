@@ -2,7 +2,7 @@
 Projeto DIO e Caixa IA
 -------
 
-# Projeto com o objetivo de gerar uma planilha para controle de gastos mensais a partir do uso das ferramentas de IA. todos os prompts
+# Projeto com o objetivo de gerar uma planilha para controle de gastos mensais a partir do uso das ferramentas de IA. 
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -14,10 +14,8 @@ Projeto DIO e Caixa IA
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um grupamento de gastos com base nos dados                                            |
-| conteúdo | Faça um texto para ebook , com foco em usabilidade do Instagram por idosos. |
-
 
 Excel：
 
