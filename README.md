@@ -1,5 +1,8 @@
 # Planilha_de_Gastos_SA
 
+[Planiha](https://github.com/sheilaufrj/Planilha_de_Gastos_SA)
+
+
 Projeto DIO e Caixa - IA Generativa com Microsoft Copilot
 -------
 
