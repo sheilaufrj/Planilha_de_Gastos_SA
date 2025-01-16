@@ -1,5 +1,6 @@
 # Planilha_de_Gastos_SA
-Projeto DIO e Caixa IA
+
+Projeto DIO e Caixa - IA Generativa com Microsoft Copilot
 -------
 
 # Projeto com o objetivo de gerar uma planilha para controle de gastos mensais a partir do uso das ferramentas de IA. 
@@ -13,8 +14,8 @@ Projeto DIO e Caixa IA
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | prompt            |
+| :------: | ------------------------------------------------------------------------------------------ |
 |  título  | Crie um grupamento de gastos com base nos dados                                            |
 
 Excel：
